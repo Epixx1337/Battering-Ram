@@ -1,0 +1,15 @@
+# FiveM asset escrow
+.fxap
+
+# editor / OS noise
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.swp
+
+# build leftovers
+*.bak
+*.ycd.xml
+*.ydr.xml
+*.blend1
